@@ -5,8 +5,7 @@ A real-time face detection application built with Streamlit and OpenCV Haar Casc
 ![Face Detection Demo](data/images/output.png)
 
 ---
-
-![Demo Video](saved_images/demo.gif)
+[Watch Demo Video](saved_images/demo.gif)
 
 ## Features
 
@@ -28,7 +27,7 @@ A real-time face detection application built with Streamlit and OpenCV Haar Casc
 1. **Clone the repository**:
    ```bash
    git clone <your-repo-url>
-   cd DIP_Project
+   cd Face-Detection-App
    ```
 
 2. **Install dependencies**:
