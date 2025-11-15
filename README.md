@@ -3,9 +3,8 @@
 A real-time face detection application built with Streamlit and OpenCV Haar Cascades, featuring image processing filters and webcam support.
 
 ![Face Detection Demo](data/images/output.png)
-
 ---
-[Watch Demo Video](saved_images/demo.gif)
+![Watch Demo Video](saved_images/demo.gif)
 
 ## Features
 
