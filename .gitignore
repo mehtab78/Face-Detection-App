@@ -67,8 +67,6 @@ venv.bak/
 Thumbs.db
 
 # Project specific
-saved_images/
-data/images/*
 !data/images/.gitkeep
 *.log
 
